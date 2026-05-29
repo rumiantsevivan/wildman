@@ -124,7 +124,6 @@ window.SITE_CONFIG = {
   hero_image: "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=1800&q=85",
 
   gallery: [
-    "https://images.unsplash.com/photo-1585747860715-2ba37e788b70?w=900&q=80",
     "https://images.unsplash.com/photo-1599351431202-1e0f0137899a?w=900&q=80",
     "https://images.unsplash.com/photo-1605497788044-5a32c7078486?w=900&q=80",
     "https://images.unsplash.com/photo-1622286342621-4bd786c2447c?w=900&q=80",
