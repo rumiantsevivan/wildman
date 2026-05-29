@@ -32,7 +32,7 @@ window.SITE_CONFIG = {
   phone: "+7 (977) 988-59-26",
   phone_link: "+79779885926",
   whatsapp: "+79779885926",
-  telegram: "",
+  telegram: "https://t.me/wildman_barbershop",
   vk: "",
   instagram: "",
 
@@ -121,7 +121,7 @@ window.SITE_CONFIG = {
     ],
   },
 
-  hero_image: "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=1800&q=85",
+  hero_image: "https://images.unsplash.com/photo-1585747860715-2ba37e788b70?w=1800&q=85",
 
   gallery: [
     "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?w=900&q=80",
