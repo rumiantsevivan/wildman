@@ -38,8 +38,8 @@ window.SITE_CONFIG = {
 
   trust: {
     rating: "5,0",
-    review_count: "120",
-    review_label: "отзывов на Яндекс.Картах",
+    review_count: "218",
+    review_label: "оценок",
     award: "Атмосфера 100%",
   },
 
